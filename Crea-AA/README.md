@@ -1,1 +1,1 @@
-[Infosuoli github](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/2/atp-safelinks.html)
+[Infosuoli github](https://github.com/CREA-Agricoltura-e-Ambiente/infosuoli/tree/codelist)
